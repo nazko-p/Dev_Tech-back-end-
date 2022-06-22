@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\bin\Debug\Stomatology.exe.config
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\bin\Debug\Stomatology.exe
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\bin\Debug\Stomatology.pdb
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\obj\Debug\Stomatology.Properties.Resources.resources
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\obj\Debug\Stomatology.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\obj\Debug\Stomatology.exe
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\obj\Debug\Stomatology.pdb
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\obj\Debug\Stomatology.Form1.resources
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\obj\Debug\Stomatology.Doctor_Window.resources
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\obj\Debug\Stomatology.AddForm.resources
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\obj\Debug\Stomatology.Admin_Window.resources
+C:\Users\Denis\Desktop\ТРПЗ\Курсач\Stomatology\Stomatology\obj\Debug\Stomatology.Receptio_Window.resources
